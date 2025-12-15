@@ -1,18 +1,29 @@
-<h1 align="center">Avinash Sah</h1>
-<h3 align="center">Frontend Engineer | React • Next.js • React Native</h3>
+<h1 align="center">Avinash</h1>
 
 <p align="center">
-Building performant, scalable, and maintainable user interfaces.
+  <strong>Frontend Engineer</strong><br/>
+  React • Next.js • TypeScript • React Native
 </p>
+
+<p align="center">
+  Designing high-performance interfaces with clean architecture and attention to detail.
+</p>
+
+<hr/>
 
 ---
 
 ### 👨‍💻 About Me
 
-- Frontend Engineer with **3+ years** of hands-on experience  
-- Specialized in **React, Next.js, TypeScript & React Native**  
-- Strong focus on **performance, scalability & clean architecture**  
-- Experience building **production-grade web & mobile apps**
+Frontend Engineer with **3+ years** of experience building **production-grade web and mobile applications**.
+Strong focus on **performance optimization, scalability, and maintainable UI systems**.
+
+Experienced with:
+- Component-driven architecture
+- Performance tuning & rendering optimization
+- Design system thinking
+- API-driven applications
+
 
 ---
 
@@ -38,13 +49,10 @@ Building performant, scalable, and maintainable user interfaces.
 
 ### 📊 GitHub Stats
 
+### GitHub Activity
+
 <img src="https://github-readme-stats.vercel.app/api?username=avinashsah995&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsah995&theme=tokyonight&hide_border=true" />
-
----
-
-<img src="https://readme-typing-svg.demolab.com?lines=Frontend+Engineer;React+%7C+Next.js+%7C+RN;Building+Scalable+UIs" />
 
 ---
 
