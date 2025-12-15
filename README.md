@@ -1,5 +1,5 @@
 <h1 align="center">Avinash Sah</h1>
-<h3 align="center">Frontend Engineer</h3>
+<img src="https://readme-typing-svg.demolab.com?color=38BDF8&lines=Frontend+Engineer;React+%7C+Next.js+%7C+React+Native;Performance+Focused+UI" />
 
 <p align="center">
 Building performant, scalable, and maintainable user interfaces.
