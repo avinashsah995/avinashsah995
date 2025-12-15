@@ -1,5 +1,5 @@
 <h1 align="center">Avinash Sah</h1>
-<img src="https://readme-typing-svg.demolab.com?color=38BDF8&lines=Frontend+Engineer;React+%7C+Next.js+%7C+React+Native;Performance+Focused+UI" />
+<h3 align="center">Frontend Engineer | React • Next.js • React Native</h3>
 
 <p align="center">
 Building performant, scalable, and maintainable user interfaces.
@@ -41,6 +41,10 @@ Building performant, scalable, and maintainable user interfaces.
 <img src="https://github-readme-stats.vercel.app/api?username=avinashsah995&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsah995&theme=tokyonight&hide_border=true" />
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?lines=Frontend+Engineer;React+%7C+Next.js+%7C+RN;Building+Scalable+UIs" />
 
 ---
 
