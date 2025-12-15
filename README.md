@@ -1,4 +1,4 @@
-<h1 align="center">Avinash</h1>
+<h1 align="center">Avinash Sah</h1>
 <h3 align="center">Frontend Engineer</h3>
 
 <p align="center">
@@ -38,16 +38,15 @@ Building performant, scalable, and maintainable user interfaces.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=avinashsah995&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsah995&theme=tokyonight&hide_border=true" />
 
 ---
 
 ### 🌐 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
-- 🌍 Portfolio: https://YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: https://linkedin.com/in/avinashsah995  
 
 ---
 
