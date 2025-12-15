@@ -9,8 +9,6 @@
   Designing high-performance interfaces with clean architecture and attention to detail.
 </p>
 
-<hr/>
-
 ---
 
 ### 👨‍💻 About Me
