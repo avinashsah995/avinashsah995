@@ -34,9 +34,20 @@ Experienced with:
 
 ### 🛠 Tech Stack
 
-**Frontend & Mobile**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" />
+
+**Mobile App Development**
+
+<img src="https://skillicons.dev/icons?i=react,android" />
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/EAS_Build-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+</p>
 
 **Backend & Database**
 
@@ -45,8 +56,6 @@ Experienced with:
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git" />
-
-**Mobile:** React Native • Expo • EAS Build • Android • Play Store Deployment
 
 ---
 
@@ -97,7 +106,9 @@ Working knowledge of backend development for building and integrating full-stack
 
 ### 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=avinashsah995&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashsah995&show_icons=true&theme=tokyonight&hide_border=true" alt="Avinash's GitHub Stats" />
+</p>
 
 ---
 
