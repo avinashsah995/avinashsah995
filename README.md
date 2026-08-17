@@ -104,11 +104,9 @@ Working knowledge of backend development for building and integrating full-stack
 
 ---
 
-### 📊 GitHub Activity
+### 🌐 Portfolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashsah995&show_icons=true&theme=tokyonight&hide_border=true" alt="Avinash's GitHub Stats" />
-</p>
+* 💼 Portfolio: https://avinash-sah.netlify.app/
 
 ---
 
