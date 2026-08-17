@@ -1,65 +1,112 @@
 <h1 align="center">Avinash</h1>
 
 <p align="center">
-  <strong>Frontend Engineer</strong><br/>
-  React • Next.js • TypeScript • React Native
+  <strong>Frontend & Mobile App Engineer</strong><br/>
+  React • Next.js • TypeScript • React Native • Expo
 </p>
 
 <p align="center">
-  Designing high-performance interfaces with clean architecture and attention to detail.
+  Building high-performance web and mobile applications with clean architecture, scalable UI systems, and attention to detail.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Frontend Engineer with **3+ years** of experience building **production-grade web and mobile applications**.
-Strong focus on **performance optimization, scalability, and maintainable UI systems**.
+Frontend & Mobile App Engineer with **3+ years of experience** building and shipping **production-grade web and mobile applications**.
+
+Strong focus on **performance, scalability, maintainable architecture, and great user experiences** across web and mobile platforms.
 
 Experienced with:
-- Component-driven architecture
-- Performance tuning & rendering optimization
-- Design system thinking
-- API-driven applications
 
+* Component-driven frontend architecture
+* React & Next.js application development
+* Cross-platform mobile development with **React Native & Expo**
+* Android app builds, releases & **Google Play Store deployment**
+* Performance tuning & rendering optimization
+* Design systems & reusable UI components
+* State management & API-driven applications
+* Backend fundamentals with **Node.js & Express.js**
+* Relational databases & **SQL**
+* REST API integration
 
 ---
 
 ### 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,graphql,postgres,git" />
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+**Mobile:** React Native • Expo • EAS Build • Android • Play Store Deployment
+
+---
+
+### 📱 Mobile App Development
+
+Building cross-platform mobile applications using **React Native and Expo**, with experience across the complete Android application lifecycle:
+
+* React Native development with Expo
+* Navigation & reusable component architecture
+* Redux-based state management
+* REST API integration
+* Native device capabilities through Expo
+* Environment & build configuration
+* EAS Build & production builds
+* Android signing & release management
+* **Google Play Console & Play Store deployment**
+
+---
+
+### ⚙️ Backend Knowledge
+
+Working knowledge of backend development for building and integrating full-stack applications:
+
+* **Node.js & Express.js**
+* REST API development
+* Routing & middleware
+* API request/response handling
+* Basic authentication concepts
+* **SQL & relational databases**
+* PostgreSQL
+* Frontend ↔ Backend integration
 
 ---
 
 ### 🚀 Featured Projects
 
-- **React Mastery**  
-  Performance optimization, virtualization, code-splitting & best practices  
+* **React Mastery**
+  Performance optimization, virtualization, code-splitting & React best practices
   🔗 https://react-mastery-psi.vercel.app
 
-- **Expo Mobile Application**  
-  End-to-end React Native app using Expo, Redux & modern navigation
+* **Expo Mobile Application**
+  End-to-end **React Native + Expo** application with Redux, modern navigation, API integration, production builds, and **Google Play Store deployment**
 
-- **ETL Tool Frontend**  
-  Scalable UI architecture with dynamic rendering & modular components
+* **ETL Tool Frontend**
+  Scalable frontend architecture with dynamic rendering, reusable components, and modular UI systems
 
 ---
 
-### 📊 GitHub Stats
-
-### GitHub Activity
+### 📊 GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=avinashsah995&show_icons=true&theme=tokyonight&hide_border=true" />
-
 
 ---
 
 ### 🌐 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/avinashsah995  
+* 💼 LinkedIn: https://linkedin.com/in/avinashsah995
 
 ---
 
 <p align="center">
-  <sub>Focused on long-term impact, not just shipping features.</sub>
+  <sub>Building scalable experiences across web and mobile — from interface to deployment.</sub>
 </p>
