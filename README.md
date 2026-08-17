@@ -40,8 +40,6 @@ Experienced with:
 
 **Mobile App Development**
 
-<img src="https://skillicons.dev/icons?i=react,android" />
-
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
@@ -87,21 +85,7 @@ Working knowledge of backend development for building and integrating full-stack
 * **SQL & relational databases**
 * PostgreSQL
 * Frontend ↔ Backend integration
-
----
-
-### 🚀 Featured Projects
-
-* **React Mastery**
-  Performance optimization, virtualization, code-splitting & React best practices
-  🔗 https://react-mastery-psi.vercel.app
-
-* **Expo Mobile Application**
-  End-to-end **React Native + Expo** application with Redux, modern navigation, API integration, production builds, and **Google Play Store deployment**
-
-* **ETL Tool Frontend**
-  Scalable frontend architecture with dynamic rendering, reusable components, and modular UI systems
-
+  
 ---
 
 ### 🌐 Portfolio
