@@ -1,12 +1,12 @@
-<h1 align="center">Avinash</h1>
+<h1 align="center">Avinash Sah</h1>
 
 <p align="center">
   <strong>Frontend & Mobile App Engineer</strong><br/>
-  React • Next.js • TypeScript • React Native • Expo
+  Specializing in React, Next.js, TypeScript and React Native.
 </p>
 
 <p align="center">
-  Building high-performance web and mobile applications with clean architecture, scalable UI systems, and attention to detail.
+  I'm Avinash Sah, a software engineer focused on building high-performance web and mobile applications.
 </p>
 
 ---
@@ -97,6 +97,7 @@ Working knowledge of backend development for building and integrating full-stack
 ### 🌐 Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/avinashsah995
+* 𝕏  X: https://x.com/avinashsah995
 
 ---
 
