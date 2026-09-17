@@ -97,10 +97,10 @@ Working knowledge of backend development for building and integrating full-stack
 ### 🌐 Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/avinashsah995
-* 𝕏  X: https://x.com/avinashsah995
+* 💼 X: https://x.com/avinashsah995
 
 ---
 
 <p align="center">
-  <sub>Building scalable experiences across web and mobile — from interface to deployment.</sub>
+  <sub>Building scalable experiences across web and mobile, from interface to deployment.</sub>
 </p>
